@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ModuloTech</string>
+    <string name="title_devices">Devices</string>
+    <string name="title_user">User</string>
+    <string name="error">An error occurred</string>
+    <string name="format">%1$td/%1$tm/%1$tY</string>
+    <string name="profile">Profile details</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="birth_date">Birth date</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="postal_code">Postal code</string>
+    <string name="street">Street</string>
+    <string name="street_code">Street code</string>
+    <string name="country">Country</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="piloting_done">Piloting done</string>
+</resources>
